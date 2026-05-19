@@ -1,0 +1,10 @@
+streamlit
+xarray
+zarr
+gcsfs
+folium
+streamlit-folium
+numpy
+dask
+netcdf4
+bottleneck
